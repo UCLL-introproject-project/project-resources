@@ -42,7 +42,7 @@ Your project will be evaluated based on the following criteria:
 ### Submission Guidelines
 
 * Project Submission: You’ll use Github Classroom for this project, as it is a primary tool for collaborative programming in education and industry. You’ll start with an empty repository and add to it as you work, using Git commands. If you have no experience with Git, you should work through the Git challenges before beginning this project.
-    * Accept the Assignment here: https://classroom.github.com/a/z52WEKZz
+    * Accept the Assignment here: https://classroom.github.com/a/vuwxi3Ol
     * Navigate to a folder on your computer where you would like to store the files for your project. This can be in the same location as your challenges repository, but it should NOT be inside another repo. For example, a folder on your computer called UCLL, with a folder inside called Introductieproject and then 2 separate folders inside that: one for the challenges and one for this project.
     * Run the command inside the introductieproject folder to create a new folder for this project:
         *    `git clone https://github.com/UCLL-introproject-project/pygame-development-project-YOUR-GITHUB-USERNAME.git`
